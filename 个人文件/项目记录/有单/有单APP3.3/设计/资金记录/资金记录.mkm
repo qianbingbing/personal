@@ -1,0 +1,23 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <LengthMark x="391" y="128" color="16711680" length="50" direction="3"/>
+    <ColorMark x="62" y="153" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <TextMark x="39" y="138" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="26px"/>
+    <ColorMark x="247" y="128" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="246" y="177" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <LengthMark x="24" y="178" color="16711680" length="30" direction="3"/>
+    <TextMark x="151" y="218" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="24px.333333"/>
+    <TextMark x="160" y="253" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="24px.999999"/>
+    <TextMark x="480" y="272" color="16711680" offsetX="29" offsetY="13" defaultDirection="5" direction="5" textMaxWidth="100" text="20px.999999"/>
+    <TextMark x="500" y="207" color="16711680" offsetX="24" offsetY="11" defaultDirection="5" direction="5" textMaxWidth="100" text="24px.333333"/>
+    <LengthMark x="118" y="229" color="16711680" length="30" direction="3"/>
+    <LengthMark x="117" y="279" color="16711680" length="30" direction="3"/>
+    <LengthMark x="537" y="279" color="16711680" length="30" direction="3"/>
+    <LengthMark x="604" y="177" color="16711680" length="30" direction="3"/>
+    <LengthMark x="0" y="284" color="16711680" length="30" direction="12"/>
+    <ColorMark x="270" y="308" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="276" y="438" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="284" y="521" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="468" y="151" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+  </Marks>
+</MKM>

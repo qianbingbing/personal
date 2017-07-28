@@ -1,0 +1,9 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <LengthMark x="89" y="254" color="16711680" length="30" direction="12"/>
+    <LengthMark x="201" y="227" color="16711680" length="12" direction="3"/>
+    <TextMark x="254" y="191" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="30px.#333333"/>
+    <TextMark x="270" y="252" color="16711680" offsetX="23" offsetY="5" defaultDirection="10" direction="10" textMaxWidth="100" text="24px.#666666"/>
+    <TextMark x="309" y="230" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="文字部分与该模块背景居中"/>
+  </Marks>
+</MKM>

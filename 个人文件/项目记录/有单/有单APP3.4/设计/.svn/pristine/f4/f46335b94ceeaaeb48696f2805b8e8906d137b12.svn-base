@@ -1,0 +1,25 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <LengthMark x="88" y="303" color="16711680" length="10" direction="12"/>
+    <LengthMark x="14" y="225" color="16711680" length="50" direction="3"/>
+    <LengthMark x="13" y="304" color="16711680" length="30" direction="3"/>
+    <LengthMark x="114" y="159" color="16711680" length="30" direction="3"/>
+    <TextMark x="120" y="543" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="30px.fda800"/>
+    <TextMark x="242" y="545" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="269" text="后面的部分请参考全部报价标注，样式一致即可"/>
+    <LengthMark x="79" y="230" color="16711680" length="10" direction="12"/>
+    <RectMark x="0" y="189" color="16711680" offsetX="80" offsetY="36"/>
+    <TextMark x="43" y="468" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="20px.ffffff"/>
+    <TextMark x="206" y="471" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="24px.333333"/>
+    <TextMark x="532" y="476" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="5" textMaxWidth="100" text="24px.333333"/>
+    <LengthMark x="610" y="492" color="16711680" length="30" direction="12"/>
+    <TextMark x="119" y="628" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="20px.999999"/>
+    <TextMark x="531" y="361" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="5" textMaxWidth="100" text="承销中样式，字色45a7ff,其他状态为666666"/>
+    <TextMark x="552" y="343" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="5" textMaxWidth="100" text="24px"/>
+    <LengthMark x="14" y="334" color="16711680" length="70" direction="3"/>
+    <LengthMark x="313" y="129" color="16711680" length="30" direction="3"/>
+    <LengthMark x="307" y="404" color="16711680" length="30" direction="3"/>
+    <TextMark x="333" y="68" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="30px.333333"/>
+    <TextMark x="329" y="1046" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="规范AB-3"/>
+    <TextMark x="39" y="167" color="16711680" offsetX="48" offsetY="23" defaultDirection="9" direction="9" textMaxWidth="159" text="请参考承销列表同类样式"/>
+  </Marks>
+</MKM>

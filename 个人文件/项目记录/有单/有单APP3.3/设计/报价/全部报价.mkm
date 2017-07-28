@@ -1,0 +1,26 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <LengthMark x="626" y="247" color="16711680" length="70" direction="3"/>
+    <LengthMark x="-1" y="409" color="16711680" length="30" direction="12"/>
+    <LengthMark x="609" y="418" color="16711680" length="30" direction="12"/>
+    <LengthMark x="470" y="406" color="16711680" length="30" direction="3"/>
+    <RectMark x="429" y="347" color="16711680" offsetX="180" offsetY="60"/>
+    <TextMark x="497" y="398" color="16711680" offsetX="17" offsetY="13" defaultDirection="10" direction="10" textMaxWidth="100" text="28px.ffffff"/>
+    <TextMark x="344" y="267" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="24px.#999999"/>
+    <LengthMark x="104" y="301" color="16711680" length="10" direction="12"/>
+    <TextMark x="62" y="262" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="24px.#333333"/>
+    <TextMark x="102" y="346" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="20px.999999"/>
+    <LengthMark x="228" y="406" color="16711680" length="30" direction="3"/>
+    <LengthMark x="20" y="356" color="16711680" length="20" direction="3"/>
+    <ColorMark x="218" y="316" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="391" y="161" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <TextMark x="153" y="273" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="切图有调整"/>
+    <TextMark x="433" y="420" color="16711680" offsetX="43" offsetY="37" defaultDirection="6" direction="6" textMaxWidth="100" text="按钮大小有调整"/>
+    <TextMark x="436" y="358" color="16711680" offsetX="39" offsetY="17" defaultDirection="5" direction="5" textMaxWidth="100" text="6px倒角"/>
+    <LengthMark x="403" y="298" color="16711680" length="10" direction="12"/>
+    <LengthMark x="16" y="316" color="16711680" length="20" direction="3"/>
+    <LengthMark x="625" y="317" color="16711680" length="30" direction="3"/>
+    <LengthMark x="61" y="436" color="16711680" length="30" direction="3"/>
+    <TextMark x="78" y="463" color="16711680" offsetX="32" offsetY="19" defaultDirection="10" direction="10" textMaxWidth="100" text="每个模块之间间距30px"/>
+  </Marks>
+</MKM>

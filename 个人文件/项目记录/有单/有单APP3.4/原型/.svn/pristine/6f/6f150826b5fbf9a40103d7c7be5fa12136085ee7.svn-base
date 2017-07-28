@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>有单V3.4</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/有单v3_4/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/有单v3_4/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (形状) -->
+      <div id="u0" class="ax_形状">
+        <img id="u0_img" class="img " src="images/有单v3_4/u0.png"/>
+        <!-- Unnamed () -->
+        <div id="u1" class="text">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u2" class="ax_文本段落">
+        <img id="u2_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u3" class="text">
+          <p><span>有单</span><span>APP V3.4 </span><span>版本规划</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (形状) -->
+      <div id="u4" class="ax_文本段落">
+        <img id="u4_img" class="img " src="resources/images/transparent.gif"/>
+        <!-- Unnamed () -->
+        <div id="u5" class="text">
+          <p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">新功能：合同和确认函线上的可视化</span><span style="font-family:'ArialMT', 'Arial';"></span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">&nbsp;</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">新功能：投后管理（消息提醒和后台管理）</span><span style="font-family:'ArialMT', 'Arial';"></span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">&nbsp;</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">功能调整：筛选功能优化</span><span style="font-family:'ArialMT', 'Arial';"></span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">&nbsp;</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">新功能：交易相关模块，有新变化时加红点提醒</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">&nbsp;</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">新功能：保证金报价增加特殊标记并增加提醒</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">&nbsp;</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">功能调整：产品上传、报价、预约成功页面跳转优化</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">&nbsp;</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">新功能：多档位报价功能</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">&nbsp;</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">新功能：系统消息栏置顶展示</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">&nbsp;</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">新增内容：保证金退回通知所属客服</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">&nbsp;</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">优化：登录／注册手机输入框默认调数字键盘</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">&nbsp;</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">优化：聊天页面识别超链接和手机号</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">&nbsp;</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">优化：用户注册输入手机号分段显示</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">&nbsp;</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">优化：资讯界面电话增加弹窗提醒</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">&nbsp;</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">优化：系统消息排序和提醒调整</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">&nbsp;</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';">&nbsp;</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

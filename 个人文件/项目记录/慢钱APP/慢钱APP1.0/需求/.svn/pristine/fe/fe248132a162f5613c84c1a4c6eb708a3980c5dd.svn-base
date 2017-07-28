@@ -1,0 +1,419 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>产品备注说明</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/产品备注说明/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/产品备注说明/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (矩形) -->
+      <div id="u705" class="ax_default _形状">
+        <div id="u705_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u706" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u707" class="ax_default _文本段落">
+        <div id="u707_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u708" class="text" style="visibility: visible;">
+          <p><span>说明：</span></p><p><span>慢钱APP产品类型：信托、资管、证劵、债权、股权；</span></p><p><span><br></span></p><p><span>各类产品的产品体系：</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (组合) -->
+      <div id="u709" class="ax_default">
+
+        <!-- Unnamed (矩形) -->
+        <div id="u710" class="ax_default _文本段落">
+          <div id="u710_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u711" class="text" style="visibility: visible;">
+            <p><span>信托</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u712" class="ax_default _文本段落">
+          <div id="u712_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u713" class="text" style="visibility: visible;">
+            <p><span>基础设施</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u714" class="ax_default _文本段落">
+          <div id="u714_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u715" class="text" style="visibility: visible;">
+            <p><span>房地产</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u716" class="ax_default _文本段落">
+          <div id="u716_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u717" class="text" style="visibility: visible;">
+            <p><span>工商企业</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u718" class="ax_default _文本段落">
+          <div id="u718_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u719" class="text" style="visibility: visible;">
+            <p><span>金融市场</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (矩形) -->
+        <div id="u720" class="ax_default _文本段落">
+          <div id="u720_div" class=""></div>
+          <!-- Unnamed () -->
+          <div id="u721" class="text" style="visibility: visible;">
+            <p><span>其他</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u722" class="ax_default _文本段落">
+        <div id="u722_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u723" class="text" style="visibility: visible;">
+          <p><span>资管</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u724" class="ax_default _文本段落">
+        <div id="u724_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u725" class="text" style="visibility: visible;">
+          <p><span>基础设施</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u726" class="ax_default _文本段落">
+        <div id="u726_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u727" class="text" style="visibility: visible;">
+          <p><span>房地产</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u728" class="ax_default _文本段落">
+        <div id="u728_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u729" class="text" style="visibility: visible;">
+          <p><span>工商企业</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u730" class="ax_default _文本段落">
+        <div id="u730_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u731" class="text" style="visibility: visible;">
+          <p><span>金融市场</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u732" class="ax_default _文本段落">
+        <div id="u732_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u733" class="text" style="visibility: visible;">
+          <p><span>其他</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u734" class="ax_default _文本段落">
+        <div id="u734_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u735" class="text" style="visibility: visible;">
+          <p><span>股权基金</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u736" class="ax_default _文本段落">
+        <div id="u736_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u737" class="text" style="visibility: visible;">
+          <p><span>VC/PE</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u738" class="ax_default _文本段落">
+        <div id="u738_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u739" class="text" style="visibility: visible;">
+          <p><span>并购</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u740" class="ax_default _文本段落">
+        <div id="u740_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u741" class="text" style="visibility: visible;">
+          <p><span>FOF母基金</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u742" class="ax_default _文本段落">
+        <div id="u742_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u743" class="text" style="visibility: visible;">
+          <p><span>新三板</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u744" class="ax_default _文本段落">
+        <div id="u744_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u745" class="text" style="visibility: visible;">
+          <p><span>证劵基金</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u746" class="ax_default _文本段落">
+        <div id="u746_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u747" class="text" style="visibility: visible;">
+          <p><span>股票策略</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u748" class="ax_default _文本段落">
+        <div id="u748_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u749" class="text" style="visibility: visible;">
+          <p><span>相对价值</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u750" class="ax_default _文本段落">
+        <div id="u750_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u751" class="text" style="visibility: visible;">
+          <p><span>管理期贷</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u752" class="ax_default _文本段落">
+        <div id="u752_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u753" class="text" style="visibility: visible;">
+          <p><span>债权策略</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u754" class="ax_default _文本段落">
+        <div id="u754_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u755" class="text" style="visibility: visible;">
+          <p><span>宏观策略</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u756" class="ax_default _文本段落">
+        <div id="u756_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u757" class="text" style="visibility: visible;">
+          <p><span>组合基金</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u758" class="ax_default _文本段落">
+        <div id="u758_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u759" class="text" style="visibility: visible;">
+          <p><span>事件驱动</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u760" class="ax_default _文本段落">
+        <div id="u760_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u761" class="text" style="visibility: visible;">
+          <p><span>复合策略</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u762" class="ax_default _文本段落">
+        <div id="u762_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u763" class="text" style="visibility: visible;">
+          <p><span>海外基金</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u764" class="ax_default _文本段落">
+        <div id="u764_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u765" class="text" style="visibility: visible;">
+          <p><span>债权基金</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u766" class="ax_default _文本段落">
+        <div id="u766_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u767" class="text" style="visibility: visible;">
+          <p><span>基础设施</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u768" class="ax_default _文本段落">
+        <div id="u768_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u769" class="text" style="visibility: visible;">
+          <p><span>房地产</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u770" class="ax_default _文本段落">
+        <div id="u770_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u771" class="text" style="visibility: visible;">
+          <p><span>工商企业</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u772" class="ax_default _文本段落">
+        <div id="u772_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u773" class="text" style="visibility: visible;">
+          <p><span>其他</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (图片) -->
+      <div id="u774" class="ax_default _图片">
+        <img id="u774_img" class="img " src="images/产品备注说明/u774.png"/>
+        <!-- Unnamed () -->
+        <div id="u775" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u776" class="ax_default _文本段落">
+        <div id="u776_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u777" class="text" style="visibility: visible;">
+          <p><span>右图为股权类产品标的的所属行业</span></p><p><span>前期版本取右图的二级信息（红框处）；</span></p><p><span><br></span></p><p><span>仅限制于股权类的产品，如果投资领域出现1个以上</span></p><p><span>的情况，投资领域展示为“混合”；</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u778" class="ax_default box_1">
+        <div id="u778_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u779" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u780" class="ax_default box_1">
+        <div id="u780_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u781" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u782" class="ax_default box_1">
+        <div id="u782_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u783" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (矩形) -->
+      <div id="u784" class="ax_default box_1">
+        <div id="u784_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u785" class="text" style="display: none; visibility: hidden">
+          <p><span></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

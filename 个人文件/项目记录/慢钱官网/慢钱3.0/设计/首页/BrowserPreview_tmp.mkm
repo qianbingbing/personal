@@ -1,0 +1,25 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <TextMark x="944" y="46" color="16711680" offsetX="40" offsetY="16" defaultDirection="10" direction="10" textMaxWidth="173" text="划过效果，文字颜色变为333333，增加边线"/>
+    <LengthMark x="875" y="42" color="16711680" length="10" direction="12"/>
+    <TextMark x="961" y="22" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="187" text="边框大小可通过显示隐藏组查看"/>
+    <TextMark x="1506" y="23" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="119" text="消息会有试试提醒"/>
+    <TextMark x="615" y="51" color="16711680" offsetX="26" offsetY="9" defaultDirection="10" direction="10" textMaxWidth="100" text="选中状态"/>
+    <TextMark x="440" y="186" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="169" text="该处划过时字体颜色498ef2"/>
+    <TextMark x="386" y="169" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="划过时边线闭合"/>
+    <TextMark x="509" y="211" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="159" text="该处划过时字体颜色498ef2"/>
+    <TextMark x="915" y="477" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="257" text="通过点击下方定位点切换页面，无左右切换键"/>
+    <TextMark x="955" y="836" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="划过时，模块整体右移20px"/>
+    <TextMark x="675" y="791" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="423" text="整体模块背景区域均可点击，标题划过存在变色，同样也可以点击"/>
+    <TextMark x="612" y="769" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="233" text="划过时，模块所属上下线段呈现闭合状态"/>
+    <TextMark x="600" y="1357" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="251" text="开发时需注意此处模块用户两种不同的格局"/>
+    <TextMark x="1403" y="1228" color="16711680" offsetX="55" offsetY="21" defaultDirection="9" direction="9" textMaxWidth="202" text="输入文字字号不变，字色为565656"/>
+    <TextMark x="1527" y="2217" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="均为配置图片"/>
+    <TextMark x="1101" y="1620" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="配置图片"/>
+    <TextMark x="634" y="533" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="128" text="存在text-shadow效果"/>
+    <TextMark x="1529" y="57" color="16711680" offsetX="39" offsetY="22" defaultDirection="6" direction="6" textMaxWidth="100" text="存在下拉效果&#xD;"/>
+    <TextMark x="1281" y="49" color="16711680" offsetX="37" offsetY="24" defaultDirection="6" direction="6" textMaxWidth="100" text="存在划过选中默认三种状态效果"/>
+    <TextMark x="1424" y="25" color="16711680" offsetX="25" offsetY="12" defaultDirection="5" direction="5" textMaxWidth="100" text="存在划过效果"/>
+    <TextMark x="1398" y="41" color="16711680" offsetX="56" offsetY="31" defaultDirection="6" direction="6" textMaxWidth="100" text="输入文字字色565656"/>
+  </Marks>
+</MKM>

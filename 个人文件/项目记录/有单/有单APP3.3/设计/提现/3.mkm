@@ -1,0 +1,8 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <TextMark x="350" y="1027" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="AB-3"/>
+    <TextMark x="303" y="238" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="参考图2标注"/>
+    <LengthMark x="358" y="127" color="16711680" length="30" direction="3"/>
+    <TextMark x="309" y="351" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="228" text="左滑操作可唤起删除键（参考地址列表页面）全部删除后，如果点击返回，提现页面则变回无银行卡绑定的交互状态，第一个模块显示“请绑定一张银行卡”。"/>
+  </Marks>
+</MKM>

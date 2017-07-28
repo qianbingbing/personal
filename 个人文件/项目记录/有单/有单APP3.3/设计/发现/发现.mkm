@@ -1,0 +1,64 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <RectMark x="35" y="173" color="16711680" offsetX="90" offsetY="90"/>
+    <TextMark x="169" y="176" color="16711680" offsetX="53" offsetY="27" defaultDirection="9" direction="9" textMaxWidth="212" text="间隔平均分布，分别为x:2x:2x:2x:x.&#xD;x=1/8(屏幕宽度-4*90px)"/>
+    <LengthMark x="138" y="263" color="16711680" length="15" direction="3"/>
+    <TextMark x="89" y="307" color="16711680" offsetX="37" offsetY="15" defaultDirection="10" direction="10" textMaxWidth="100" text="26px.#666666"/>
+    <LengthMark x="17" y="369" color="16711680" length="140" direction="3"/>
+    <ColorMark x="320" y="498" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <LengthMark x="469" y="348" color="16711680" length="20" direction="3"/>
+    <LengthMark x="466" y="509" color="16711680" length="20" direction="3"/>
+    <ColorMark x="147" y="562" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <TextMark x="155" y="586" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="30px"/>
+    <TextMark x="469" y="576" color="16711680" offsetX="42" offsetY="10" defaultDirection="5" direction="5" textMaxWidth="100" text="24px.#999999"/>
+    <LengthMark x="582" y="588" color="16711680" length="10" direction="12"/>
+    <LengthMark x="610" y="577" color="16711680" length="30" direction="12"/>
+    <LengthMark x="0" y="581" color="16711680" length="30" direction="12"/>
+    <ColorMark x="110" y="1648" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <TextMark x="184" y="637" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="26px.#333333"/>
+    <TextMark x="175" y="801" color="16711680" offsetX="23" offsetY="8" defaultDirection="10" direction="10" textMaxWidth="100" text="20px.#999999"/>
+    <TextMark x="184" y="722" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="50px.#fda800"/>
+    <TextMark x="224" y="746" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="24px"/>
+    <TextMark x="475" y="721" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="#666666"/>
+    <LengthMark x="204" y="937" color="16711680" length="8" direction="3"/>
+    <TextMark x="228" y="927" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="参考列表页"/>
+    <TextMark x="429" y="1729" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="参考其他图标"/>
+    <LengthMark x="312" y="529" color="16711680" length="88" direction="3"/>
+    <ColorMark x="359" y="616" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <LengthMark x="28" y="616" color="16711680" length="30" direction="3"/>
+    <LengthMark x="33" y="796" color="16711680" length="40" direction="3"/>
+    <LengthMark x="33" y="766" color="16711680" length="10" direction="3"/>
+    <LengthMark x="31" y="676" color="16711680" length="50" direction="3"/>
+    <LengthMark x="334" y="725" color="16711680" length="70" direction="3"/>
+    <ColorMark x="320" y="726" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <LengthMark x="335" y="795" color="16711680" length="40" direction="3"/>
+    <LengthMark x="17" y="128" color="16711680" length="45" direction="3"/>
+    <LengthMark x="16" y="304" color="16711680" length="45" direction="3"/>
+    <LengthMark x="415" y="40" color="16711680" length="88" direction="3"/>
+    <LengthMark x="405" y="0" color="16711680" length="40" direction="3"/>
+    <TextMark x="426" y="50" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="安卓导航栏高96px"/>
+    <LengthMark x="448" y="54" color="16711680" length="60" direction="3"/>
+    <LengthMark x="610" y="96" color="16711680" length="30" direction="12"/>
+    <LengthMark x="0" y="109" color="16711680" length="110" direction="12"/>
+    <TextMark x="45" y="62" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="30px.#ffffff"/>
+    <LengthMark x="151" y="102" color="16711680" length="8" direction="12"/>
+    <LengthMark x="109" y="98" color="16711680" length="18" direction="12"/>
+    <TextMark x="225" y="66" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="30px.#cccccc"/>
+    <TextMark x="31" y="426" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="高度表&#xD;i4.i5=140px&#xD;i6=164px&#xD;i6p=270px&#xD;安卓=160px&#xD;"/>
+    <TextMark x="188" y="419" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="广告墙入口配置图片区"/>
+    <TextMark x="334" y="424" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="活动配置图片区"/>
+    <TextMark x="457" y="705" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="50px"/>
+    <TextMark x="537" y="746" color="16711680" offsetX="26" offsetY="11" defaultDirection="9" direction="9" textMaxWidth="100" text="24px"/>
+    <LengthMark x="316" y="1605" color="16711680" length="20" direction="3"/>
+    <LengthMark x="379" y="1641" color="16711680" length="10" direction="12"/>
+    <ColorMark x="404" y="1635" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <LengthMark x="229" y="1651" color="16711680" length="20" direction="12"/>
+    <TextMark x="344" y="1619" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="20px.#bbbbbb"/>
+    <LengthMark x="565" y="1606" color="16711680" length="90" direction="3"/>
+    <TextMark x="393" y="28" color="16711680" offsetX="34" offsetY="13" defaultDirection="5" direction="5" textMaxWidth="130" text="安卓可忽略此状态栏高度标注"/>
+    <TextMark x="602" y="116" color="16711680" offsetX="42" offsetY="20" defaultDirection="6" direction="6" textMaxWidth="100" text="4px.倒角"/>
+    <TextMark x="186" y="1706" color="16711680" offsetX="86" offsetY="21" defaultDirection="9" direction="9" textMaxWidth="100" text="效果图仅供参考，tabbar是底部固定样式"/>
+    <LengthMark x="613" y="616" color="16711680" length="220" direction="3"/>
+    <LengthMark x="485" y="128" color="16711680" length="220" direction="3"/>
+  </Marks>
+</MKM>

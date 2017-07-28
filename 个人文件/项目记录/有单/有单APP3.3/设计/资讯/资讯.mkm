@@ -1,0 +1,23 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <LengthMark x="292" y="214" color="16711680" length="210" direction="3"/>
+    <LengthMark x="113" y="398" color="16711680" length="25" direction="3"/>
+    <LengthMark x="557" y="393" color="16711680" length="30" direction="3"/>
+    <LengthMark x="476" y="214" color="16711680" length="30" direction="3"/>
+    <LengthMark x="610" y="300" color="16711680" length="30" direction="12"/>
+    <RectMark x="30" y="364" color="16711680" offsetX="110" offsetY="34"/>
+    <ColorMark x="130" y="379" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="134" y="586" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <ColorMark x="134" y="793" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <TextMark x="422" y="799" color="16711680" offsetX="29" offsetY="7" defaultDirection="5" direction="5" textMaxWidth="100" text="20px.#999999"/>
+    <TextMark x="71" y="775" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="20px.#ffffff"/>
+    <TextMark x="158" y="244" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="32px.#333333"/>
+    <LengthMark x="129" y="214" color="16711680" length="30" direction="3"/>
+    <TextMark x="214" y="146" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="132" text="参考上架列表切卡样式"/>
+    <RectMark x="500" y="244" color="16711680" offsetX="110" offsetY="110"/>
+    <TextMark x="485" y="322" color="16711680" offsetX="41" offsetY="7" defaultDirection="6" direction="6" textMaxWidth="100" text="未加载成功图片时，默认显示色块色值f2f2f2"/>
+    <ColorMark x="340" y="631" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" colorSystem="hex"/>
+    <LengthMark x="-1" y="325" color="16711680" length="30" direction="12"/>
+    <LengthMark x="460" y="277" color="16711680" length="40" direction="12"/>
+  </Marks>
+</MKM>

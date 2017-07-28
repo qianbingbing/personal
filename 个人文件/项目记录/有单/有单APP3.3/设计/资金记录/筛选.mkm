@@ -1,0 +1,6 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <TextMark x="397" y="547" color="16711680" offsetX="53" offsetY="39" defaultDirection="10" direction="10" textMaxWidth="100" text="xa-1"/>
+    <TextMark x="309" y="583" color="16711680" offsetX="44" offsetY="25" defaultDirection="10" direction="10" textMaxWidth="100" text="参考预约列表"/>
+  </Marks>
+</MKM>

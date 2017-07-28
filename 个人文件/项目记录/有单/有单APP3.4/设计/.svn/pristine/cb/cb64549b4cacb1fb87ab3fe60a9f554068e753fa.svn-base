@@ -1,0 +1,14 @@
+<MKM version="2.0" minAppVer="2.0.0" imageFileUrl="">
+  <Marks>
+    <LengthMark x="99" y="301" color="16711680" length="8" direction="12"/>
+    <LengthMark x="128" y="301" color="16711680" length="8" direction="12"/>
+    <RectMark x="107" y="269" color="16711680" offsetX="22" offsetY="26"/>
+    <TextMark x="61" y="372" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="30px.fda800"/>
+    <LengthMark x="89" y="408" color="16711680" length="10" direction="12"/>
+    <TextMark x="212" y="283" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="20px.999999"/>
+    <TextMark x="457" y="270" color="16711680" offsetX="41" offsetY="12" defaultDirection="5" direction="5" textMaxWidth="100" text="20px.999999"/>
+    <TextMark x="572" y="269" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="5" textMaxWidth="100" text="20px.fda800"/>
+    <TextMark x="263" y="337" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="其他样式与原界面保持一致"/>
+    <TextMark x="134" y="332" color="16711680" offsetX="25" offsetY="10" defaultDirection="9" direction="9" textMaxWidth="100" text="20px.999999"/>
+  </Marks>
+</MKM>
